@@ -1,0 +1,25 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\josep\\Downloads\\SDK - Copy\\javafx-sdk-18.0.2\\lib\\javafx.base.jar",
+            "c:\\Users\\josep\\Downloads\\SDK - Copy\\javafx-sdk-18.0.2\\lib\\javafx.controls.jar",
+            "c:\\Users\\josep\\Downloads\\SDK - Copy\\javafx-sdk-18.0.2\\lib\\javafx.fxml.jar",
+            "c:\\Users\\josep\\Downloads\\SDK - Copy\\javafx-sdk-18.0.2\\lib\\javafx.graphics.jar",
+            "c:\\Users\\josep\\Downloads\\SDK - Copy\\javafx-sdk-18.0.2\\lib\\javafx.media.jar",
+            "c:\\Users\\josep\\Downloads\\SDK - Copy\\javafx-sdk-18.0.2\\lib\\javafx.swing.jar",
+            "c:\\Users\\josep\\Downloads\\SDK - Copy\\javafx-sdk-18.0.2\\lib\\javafx.web.jar",
+            "c:\\Users\\josep\\OneDrive - Loyola University Maryland\\Documents\\SDK\\javafx-sdk-18.0.2\\lib\\javafx.base.jar",
+            "c:\\Users\\josep\\OneDrive - Loyola University Maryland\\Documents\\SDK\\javafx-sdk-18.0.2\\lib\\javafx.controls.jar",
+            "c:\\Users\\josep\\OneDrive - Loyola University Maryland\\Documents\\SDK\\javafx-sdk-18.0.2\\lib\\javafx.fxml.jar",
+            "c:\\Users\\josep\\OneDrive - Loyola University Maryland\\Documents\\SDK\\javafx-sdk-18.0.2\\lib\\javafx.graphics.jar",
+            "c:\\Users\\josep\\OneDrive - Loyola University Maryland\\Documents\\SDK\\javafx-sdk-18.0.2\\lib\\javafx.media.jar",
+            "c:\\Users\\josep\\OneDrive - Loyola University Maryland\\Documents\\SDK\\javafx-sdk-18.0.2\\lib\\javafx.swing.jar",
+            "c:\\Users\\josep\\OneDrive - Loyola University Maryland\\Documents\\SDK\\javafx-sdk-18.0.2\\lib\\javafx.web.jar",
+            "c:\\Users\\josep\\OneDrive - Loyola University Maryland\\Documents\\SDK\\javafx-sdk-18.0.2\\lib\\javafx-swt.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\josep\\Downloads\\SDK - Copy\\javafx-sdk-18.0.2\\lib\\javafx-swt.jar"
+        ]
+    }
+}
